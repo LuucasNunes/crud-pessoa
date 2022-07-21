@@ -1,6 +1,6 @@
 <?php
 
-    require_once '';
+    require_once 'Config.php';
     class connection {
         public static function getConnection($host,$dbName,$userName,$pass){
             $dns = "mysql:host=$host;dbname=$dbName;charset=UTF8";

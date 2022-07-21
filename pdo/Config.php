@@ -2,5 +2,5 @@
     $host = 'localhost';
     $user = 'root';
     $pass = '';
-    $dbName = 'crudpessoa';
+    $dbName = 'meubanco';
 ?>
