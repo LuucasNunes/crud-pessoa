@@ -26,7 +26,7 @@
             <input type="password" name="senha" minlength="8" 
                    placeholder="Senha aqui...">
             <br/><br/>
-            <input type="submit" name="salvar" value="Salvar">
+            <input type="submit" name="Salvar" value="Salvar">
             <input type="reset" value="Limpar">
             <input type="button" value="Voltar" 
                    onclick="location.href='../index.php'">
